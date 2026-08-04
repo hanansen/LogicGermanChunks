@@ -1,0 +1,112 @@
+[
+  {
+    "id": "sich_kummern_um",
+    "category": "Home",
+    "germanChunk": "sich kümmern um (+ Accusative)",
+    "translation": "to take care of / to look after",
+    "literalBreakdown": "to concern oneself around",
+    "logicalExplanation": "Wrapping your attention 'around' a household task or person needing care.",
+    "sentences": [
+      {
+        "german": "Ich kümmere mich um den Garten.",
+        "english": "I take care of the garden."
+      },
+      {
+        "german": "Wir kümmern uns um den Garten.",
+        "english": "We take care of the garden."
+      },
+      {
+        "german": "Sie kümmert sich um den Garten.",
+        "english": "She takes care of the garden."
+      }
+    ]
+  },
+  {
+    "id": "sich_freuen_uber",
+    "category": "Home",
+    "germanChunk": "sich freuen über (+ Accusative)",
+    "translation": "to be happy about (present/completed event)",
+    "literalBreakdown": "to joy oneself over",
+    "logicalExplanation": "Radiating joy that flows over an existing home comfort or gift.",
+    "sentences": [
+      {
+        "german": "Ich freue mich über das Geschenk.",
+        "english": "I am happy about the gift."
+      },
+      {
+        "german": "Wir freuen uns über das Geschenk.",
+        "english": "We are happy about the gift."
+      },
+      {
+        "german": "Sie freut sich über das Geschenk.",
+        "english": "She is happy about the gift."
+      }
+    ]
+  },
+  {
+    "id": "warten_auf",
+    "category": "Home",
+    "germanChunk": "warten auf (+ Accusative)",
+    "translation": "to wait for",
+    "literalBreakdown": "to guard/wait onto",
+    "logicalExplanation": "Guarding your time with eyes fixed on an arrival.",
+    "sentences": [
+      {
+        "german": "Ich warte auf den Handwerker.",
+        "english": "I wait for the repairman."
+      },
+      {
+        "german": "Wir warten auf den Handwerker.",
+        "english": "We wait for the repairman."
+      },
+      {
+        "german": "Sie wartet auf den Handwerker.",
+        "english": "She waits for the repairman."
+      }
+    ]
+  },
+  {
+    "id": "sich_argern_uber",
+    "category": "Home",
+    "germanChunk": "sich ärgern über (+ Accusative)",
+    "translation": "to be annoyed about / to be vexed over",
+    "literalBreakdown": "to anger oneself over",
+    "logicalExplanation": "Letting frustration spill 'over' a household annoyance.",
+    "sentences": [
+      {
+        "german": "Ich ärgere mich über den Lärm.",
+        "english": "I am annoyed about the noise."
+      },
+      {
+        "german": "Wir ärgern uns über den Lärm.",
+        "english": "We are annoyed about the noise."
+      },
+      {
+        "german": "Sie ärgert sich über den Lärm.",
+        "english": "She is annoyed about the noise."
+      }
+    ]
+  },
+  {
+    "id": "denken_an",
+    "category": "Home",
+    "germanChunk": "denken an (+ Accusative)",
+    "translation": "to think of / to remember to do",
+    "literalBreakdown": "to think at/on",
+    "logicalExplanation": "Directing a mental spotlight toward an errand or item.",
+    "sentences": [
+      {
+        "german": "Ich denke an den Einkaufszettel.",
+        "english": "I think of the shopping list."
+      },
+      {
+        "german": "Wir denken an den Einkaufszettel.",
+        "english": "We think of the shopping list."
+      },
+      {
+        "german": "Sie denkt an den Einkaufszettel.",
+        "english": "She thinks of the shopping list."
+      }
+    ]
+  }
+]

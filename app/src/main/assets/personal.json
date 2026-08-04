@@ -1,0 +1,112 @@
+[
+  {
+    "id": "sich_freuen_auf",
+    "category": "Personal",
+    "germanChunk": "sich freuen auf (+ Accusative)",
+    "translation": "to look forward to",
+    "literalBreakdown": "to joy oneself onto/upon",
+    "logicalExplanation": "Throwing your joy forward onto an upcoming personal event.",
+    "sentences": [
+      {
+        "german": "Ich freue mich auf das Wochenende.",
+        "english": "I look forward to the weekend."
+      },
+      {
+        "german": "Wir freuen uns auf das Wochenende.",
+        "english": "We look forward to the weekend."
+      },
+      {
+        "german": "Sie freut sich auf das Wochenende.",
+        "english": "She looks forward to the weekend."
+      }
+    ]
+  },
+  {
+    "id": "sich_interessieren_fuer",
+    "category": "Personal",
+    "germanChunk": "sich interessieren für (+ Accusative)",
+    "translation": "to be interested in",
+    "literalBreakdown": "to interest oneself for",
+    "logicalExplanation": "Holding your attention and curiosity directed forward for something.",
+    "sentences": [
+      {
+        "german": "Ich interessiere mich für die Kunst.",
+        "english": "I am interested in the art."
+      },
+      {
+        "german": "Wir interessieren uns für die Kunst.",
+        "english": "We are interested in the art."
+      },
+      {
+        "german": "Sie interessiert sich für die Kunst.",
+        "english": "She is interested in the art."
+      }
+    ]
+  },
+  {
+    "id": "sich_erinnern_an",
+    "category": "Personal",
+    "germanChunk": "sich erinnern an (+ Accusative)",
+    "translation": "to remember / to recall",
+    "literalBreakdown": "to inward-mind oneself at/on",
+    "logicalExplanation": "Pulling a past thought back into your active mental space.",
+    "sentences": [
+      {
+        "german": "Ich erinnere mich an den Moment.",
+        "english": "I remember the moment."
+      },
+      {
+        "german": "Wir erinnern uns an den Moment.",
+        "english": "We remember the moment."
+      },
+      {
+        "german": "Sie erinnert sich an den Moment.",
+        "english": "She remembers the moment."
+      }
+    ]
+  },
+  {
+    "id": "sich_vorbereiten_auf",
+    "category": "Personal",
+    "germanChunk": "sich vorbereiten auf (+ Accusative)",
+    "translation": "to prepare for",
+    "literalBreakdown": "to forward-prepare oneself onto",
+    "logicalExplanation": "Setting your readiness ahead of time for an oncoming event.",
+    "sentences": [
+      {
+        "german": "Ich bereite mich auf die Reise vor.",
+        "english": "I prepare for the trip."
+      },
+      {
+        "german": "Wir bereiten uns auf die Reise vor.",
+        "english": "We prepare for the trip."
+      },
+      {
+        "german": "Sie bereitet sich auf die Reise vor.",
+        "english": "She prepares for the trip."
+      }
+    ]
+  },
+  {
+    "id": "sich_bedanken_bei",
+    "category": "Personal",
+    "germanChunk": "sich bedanken bei (+ Dative)",
+    "translation": "to thank someone",
+    "literalBreakdown": "to give-thanks oneself near/at",
+    "logicalExplanation": "Directing your expression of gratitude toward the source person.",
+    "sentences": [
+      {
+        "german": "Ich bedanke mich bei dem Freund.",
+        "english": "I thank the friend."
+      },
+      {
+        "german": "Wir bedanken uns bei dem Freund.",
+        "english": "We thank the friend."
+      },
+      {
+        "german": "Sie bedankt sich bei dem Freund.",
+        "english": "She thanks the friend."
+      }
+    ]
+  }
+]

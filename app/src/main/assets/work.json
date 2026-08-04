@@ -1,0 +1,112 @@
+[
+  {
+    "id": "sich_verlassen_auf",
+    "category": "Work",
+    "germanChunk": "sich verlassen auf (+ Accusative)",
+    "translation": "to rely on / to depend on",
+    "literalBreakdown": "to leave oneself onto",
+    "logicalExplanation": "Leaving your security or trust resting on someone or something.",
+    "sentences": [
+      {
+        "german": "Ich verlasse mich auf den Plan.",
+        "english": "I rely on the plan."
+      },
+      {
+        "german": "Wir verlassen uns auf den Plan.",
+        "english": "We rely on the plan."
+      },
+      {
+        "german": "Sie verlässt sich auf den Plan.",
+        "english": "She relies on the plan."
+      }
+    ]
+  },
+  {
+    "id": "sich_konzentrieren_auf",
+    "category": "Work",
+    "germanChunk": "sich konzentrieren auf (+ Accusative)",
+    "translation": "to concentrate on / to focus on",
+    "literalBreakdown": "to center oneself onto",
+    "logicalExplanation": "Gathering your mental energy into a single focal point ahead.",
+    "sentences": [
+      {
+        "german": "Ich konzentriere mich auf das Projekt.",
+        "english": "I focus on the project."
+      },
+      {
+        "german": "Wir konzentrieren uns auf das Projekt.",
+        "english": "We focus on the project."
+      },
+      {
+        "german": "Sie konzentriert sich auf das Projekt.",
+        "english": "She focuses on the project."
+      }
+    ]
+  },
+  {
+    "id": "sich_vorbereiten_auf_arbeit",
+    "category": "Work",
+    "germanChunk": "sich vorbereiten auf (+ Accusative)",
+    "translation": "to prepare for",
+    "literalBreakdown": "to forward-prepare oneself onto",
+    "logicalExplanation": "Building readiness ahead of a professional task.",
+    "sentences": [
+      {
+        "german": "Ich bereite mich auf die Präsentation vor.",
+        "english": "I prepare for the presentation."
+      },
+      {
+        "german": "Wir bereiten uns auf die Präsentation vor.",
+        "english": "We prepare for the presentation."
+      },
+      {
+        "german": "Sie bereitet sich auf die Präsentation vor.",
+        "english": "She prepares for the presentation."
+      }
+    ]
+  },
+  {
+    "id": "teilnehmen_an",
+    "category": "Work",
+    "germanChunk": "teilnehmen an (+ Dative)",
+    "translation": "to participate in / to attend",
+    "literalBreakdown": "to take-part at/on",
+    "logicalExplanation": "Taking a slice of an event and holding your presence there.",
+    "sentences": [
+      {
+        "german": "Ich nehme an dem Meeting teil.",
+        "english": "I attend the meeting."
+      },
+      {
+        "german": "Wir nehmen an dem Meeting teil.",
+        "english": "We attend the meeting."
+      },
+      {
+        "german": "Sie nimmt an dem Meeting teil.",
+        "english": "She attends the meeting."
+      }
+    ]
+  },
+  {
+    "id": "achten_auf",
+    "category": "Work",
+    "germanChunk": "achten auf (+ Accusative)",
+    "translation": "to pay attention to / to watch out for",
+    "literalBreakdown": "to eye/attend onto",
+    "logicalExplanation": "Keeping your attention locked onto a specific detail or standard.",
+    "sentences": [
+      {
+        "german": "Ich achte auf die Qualität.",
+        "english": "I pay attention to the quality."
+      },
+      {
+        "german": "Wir achten auf die Qualität.",
+        "english": "We pay attention to the quality."
+      },
+      {
+        "german": "Sie achtet auf die Qualität.",
+        "english": "She pays attention to the quality."
+      }
+    ]
+  }
+]
